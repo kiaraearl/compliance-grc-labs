@@ -56,13 +56,14 @@ what's actually missing:
 - **Third-Party Assurance** — this one's actually planned. It's Lab GRC03 (vendor risk
   assessment), coming next.
 
-## Why This Matters for the Role
+## Why This Matters
 
-The Information Security Analyst role at Machinify lists "assist with HITRUST r2 and
-SOC 2 audit preparation and evidence collection" as roughly a quarter of the job. This
-crosswalk is basically a small-scale version of that exact task: taking security control
-evidence that already exists and mapping it to a specific framework's structure so it's
-ready to hand to an auditor.
+Compliance and audit support roles regularly list tasks like "assist with HITRUST and
+SOC 2 audit preparation and evidence collection" as a core part of the job. This
+crosswalk is a small-scale version of that exact task: taking security control evidence
+that already exists and mapping it to a specific framework's structure so it's ready to
+hand to an auditor. It's a skill that's easy to talk about in an interview but hard to
+demonstrate without something like this to point to.
 
 ## References
 
