@@ -24,7 +24,7 @@ use it.
 ## Lab Goals
 
 - [x] Map existing security control evidence to a major compliance framework (HITRUST CSF)
-- [ ] Simulate a security assurance ticket intake/triage workflow
+- [x] Simulate a security assurance ticket intake/triage workflow
 - [ ] Draft a vendor risk assessment questionnaire response
 - [ ] Build a structured security documentation repository index
 
@@ -35,7 +35,7 @@ use it.
 | # | Lab | Status | Write-Up |
 | --- | --- | --- | --- |
 | GRC01 | HITRUST CSF domain mapping — crosswalk of homelab controls and WGU D828 coursework against all 19 HITRUST domains | Complete | [View](labs/lab01-hitrust-csf-mapping/lab01-hitrust-csf-mapping.md) |
-| GRC02 | Security assurance ticket queue simulation — intake, triage, and resolution workflow | Planned | — |
+| GRC02 | Security assurance ticket queue simulation — intake, triage, and resolution workflow | Complete | [View](https://github.com/kiaraearl/compliance-grc-labs/blob/main/labs/lab02-security-assurance-ticket-queue/lab02-security-assurance-ticket-queue.md) |
 | GRC03 | Vendor risk assessment — sample questionnaire response | Planned | — |
 | GRC04 | Security documentation repository — structured evidence index | Planned | — |
 
